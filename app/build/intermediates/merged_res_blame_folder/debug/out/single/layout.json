@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Surendra\\Buddies_new_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\Surendra\\Buddies_new_project\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surendra\\Buddies_new_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\Surendra\\Buddies_new_project\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surendra\\Buddies_new_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Surendra\\Buddies_new_project\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    }
+]

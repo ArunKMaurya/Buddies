@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/black"
+    tools:context=".SplashActivity">
+    <ImageView
+        android:id="@+id/cloud"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/social_life"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="90dp"
+        android:src="@drawable/ic_union_cloud" />
+
+    <ImageView
+        android:layout_width="167dp"
+        android:layout_height="136dp"
+        android:layout_alignStart="@id/cloud"
+        android:layout_alignTop="@id/cloud"
+        android:layout_alignEnd="@id/cloud"
+        android:layout_alignBottom="@id/cloud"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="43.5dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/ic_buddies_blue" />
+
+    <ImageView
+        android:layout_width="167dp"
+        android:layout_height="136dp"
+        android:layout_alignStart="@id/cloud"
+        android:layout_alignTop="@id/cloud"
+        android:layout_alignEnd="@id/cloud"
+        android:layout_alignBottom="@id/cloud"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="43dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/ic_buddies_pink" />
+
+    <ImageView
+        android:id="@+id/text_White"
+        android:layout_width="167dp"
+        android:layout_height="136dp"
+        android:layout_alignStart="@id/cloud"
+        android:layout_alignTop="@id/cloud"
+        android:layout_alignEnd="@id/cloud"
+        android:layout_alignBottom="@id/cloud"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/ic_buddies_white" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/ic_ellipse_bigger" />
+
+    <ImageView
+        android:id="@+id/social_life"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/ic_undraw_social_life" />
+
+</RelativeLayout>

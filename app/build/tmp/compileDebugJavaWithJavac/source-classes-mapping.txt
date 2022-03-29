@@ -1,0 +1,8 @@
+com/shivam/new_buddy/databinding/ActivityDashboardBinding.java
+ com.shivam.new_buddy.databinding.ActivityDashboardBinding
+com/shivam/new_buddy/databinding/ActivityDetailBinding.java
+ com.shivam.new_buddy.databinding.ActivityDetailBinding
+com/shivam/new_buddy/databinding/ActivitySplashBinding.java
+ com.shivam.new_buddy.databinding.ActivitySplashBinding
+com/shivam/new_buddy/BuildConfig.java
+ com.shivam.new_buddy.BuildConfig
