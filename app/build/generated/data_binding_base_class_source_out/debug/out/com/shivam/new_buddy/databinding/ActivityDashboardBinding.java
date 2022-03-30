@@ -4,6 +4,7 @@ package com.shivam.new_buddy.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -20,12 +21,16 @@ public final class ActivityDashboardBinding implements ViewBinding {
   private final RelativeLayout rootView;
 
   @NonNull
-  public final BottomNavigationView btNav;
+  public final BottomNavigationView bottomNavigation;
+
+  @NonNull
+  public final FrameLayout flNav;
 
   private ActivityDashboardBinding(@NonNull RelativeLayout rootView,
-      @NonNull BottomNavigationView btNav) {
+      @NonNull BottomNavigationView bottomNavigation, @NonNull FrameLayout flNav) {
     this.rootView = rootView;
-    this.btNav = btNav;
+    this.bottomNavigation = bottomNavigation;
+    this.flNav = flNav;
   }
 
   @Override
@@ -55,13 +60,19 @@ public final class ActivityDashboardBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.bt_nav;
-      BottomNavigationView btNav = ViewBindings.findChildViewById(rootView, id);
-      if (btNav == null) {
+      id = R.id.bottom_navigation;
+      BottomNavigationView bottomNavigation = ViewBindings.findChildViewById(rootView, id);
+      if (bottomNavigation == null) {
         break missingId;
       }
 
-      return new ActivityDashboardBinding((RelativeLayout) rootView, btNav);
+      id = R.id.fl_nav;
+      FrameLayout flNav = ViewBindings.findChildViewById(rootView, id);
+      if (flNav == null) {
+        break missingId;
+      }
+
+      return new ActivityDashboardBinding((RelativeLayout) rootView, bottomNavigation, flNav);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

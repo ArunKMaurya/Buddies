@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Surendra\\Buddies_new_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
+            "outputFile": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Surendra\\.gradle\\caches\\transforms-3\\8ad99313dc85bee365400e07992e11fc\\transformed\\material-1.5.0\\res\\values-sv\\values-sv.xml",
