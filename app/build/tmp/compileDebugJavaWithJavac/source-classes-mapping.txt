@@ -1,5 +1,3 @@
-com/shivam/new_buddy/BuildConfig.java
- com.shivam.new_buddy.BuildConfig
 com/shivam/new_buddy/databinding/ActivityDashboardBinding.java
  com.shivam.new_buddy.databinding.ActivityDashboardBinding
 com/shivam/new_buddy/databinding/ActivityDetailBinding.java
@@ -8,6 +6,8 @@ com/shivam/new_buddy/databinding/FragmentGlobalBinding.java
  com.shivam.new_buddy.databinding.FragmentGlobalBinding
 com/shivam/new_buddy/databinding/ActivitySplashBinding.java
  com.shivam.new_buddy.databinding.ActivitySplashBinding
+com/shivam/new_buddy/BuildConfig.java
+ com.shivam.new_buddy.BuildConfig
 com/shivam/new_buddy/databinding/FragmentNotifyBinding.java
  com.shivam.new_buddy.databinding.FragmentNotifyBinding
 com/shivam/new_buddy/databinding/FragmentHomeBinding.java

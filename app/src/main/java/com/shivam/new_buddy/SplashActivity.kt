@@ -6,23 +6,18 @@ import android.os.Bundle
 import android.os.Handler
 import android.view.Window
 import android.view.WindowManager
+import com.shivam.new_buddy.databinding.ActivityDashboardBinding
 import com.shivam.new_buddy.databinding.ActivitySplashBinding
 
 class SplashActivity : AppCompatActivity() {
 
-    lateinit var binding : ActivitySplashBinding
+   private lateinit var binding : ActivitySplashBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivitySplashBinding.inflate(layoutInflater)
-
-        requestWindowFeature(Window.FEATURE_NO_TITLE);
-        window.setFlags(
-            WindowManager.LayoutParams.FLAG_FULLSCREEN,
-            WindowManager.LayoutParams.FLAG_FULLSCREEN
-        )
-
-        setContentView(binding.root)
+        val view = binding.root
+        setContentView(view)
 
         Handler().postDelayed( { //This method will be executed once the timer is over
             // Start your app main activity

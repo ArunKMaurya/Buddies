@@ -21,15 +21,15 @@ public final class ActivityDashboardBinding implements ViewBinding {
   private final RelativeLayout rootView;
 
   @NonNull
-  public final BottomNavigationView bottomNavigation;
+  public final BottomNavigationView btBottomNavigation;
 
   @NonNull
   public final FrameLayout flNav;
 
   private ActivityDashboardBinding(@NonNull RelativeLayout rootView,
-      @NonNull BottomNavigationView bottomNavigation, @NonNull FrameLayout flNav) {
+      @NonNull BottomNavigationView btBottomNavigation, @NonNull FrameLayout flNav) {
     this.rootView = rootView;
-    this.bottomNavigation = bottomNavigation;
+    this.btBottomNavigation = btBottomNavigation;
     this.flNav = flNav;
   }
 
@@ -60,9 +60,9 @@ public final class ActivityDashboardBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.bottom_navigation;
-      BottomNavigationView bottomNavigation = ViewBindings.findChildViewById(rootView, id);
-      if (bottomNavigation == null) {
+      id = R.id.bt_bottom_Navigation;
+      BottomNavigationView btBottomNavigation = ViewBindings.findChildViewById(rootView, id);
+      if (btBottomNavigation == null) {
         break missingId;
       }
 
@@ -72,7 +72,7 @@ public final class ActivityDashboardBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityDashboardBinding((RelativeLayout) rootView, bottomNavigation, flNav);
+      return new ActivityDashboardBinding((RelativeLayout) rootView, btBottomNavigation, flNav);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

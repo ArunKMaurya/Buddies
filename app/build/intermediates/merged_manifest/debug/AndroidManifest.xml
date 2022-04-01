@@ -19,24 +19,11 @@
         android:testOnly="true"
         android:theme="@style/Theme.New_buddy" >
         <activity
-            android:name="com.shivam.new_buddy.DashnavActivity"
-            android:exported="true"
-            android:label="@string/title_activity_dashnav"
-            android:theme="@style/Theme.New_buddy.NoActionBar" />
-        <activity
-            android:name="com.shivam.new_buddy.HomeFragment"
-            android:exported="true" />
-        <activity
-            android:name="com.shivam.new_buddy.Bottomnav"
-            android:exported="true"
-            android:label="@string/title_activity_bottomnav" />
-        <activity
             android:name="com.shivam.new_buddy.DetailActivity"
-            android:exported="false" />
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.shivam.new_buddy.DashboardActivity"
-            android:exported="false"
-            android:label="@string/title_activity_dashboard" />
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.shivam.new_buddy.SplashActivity"
             android:exported="true" >

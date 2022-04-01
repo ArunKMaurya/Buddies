@@ -24,16 +24,16 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_union_cloud.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_union_cloud.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vector_notify.xml.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_vector_notify.xml"
     },
     {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_union_cloud.xml.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_union_cloud.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_union_cloud.png.flat",
@@ -48,16 +48,16 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail.xml.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_detail.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_detail.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vector_global.xml.flat",

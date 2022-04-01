@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:title="home"
+    <item android:title=""
         android:icon="@drawable/ic_baseline_home_24"
         android:id="@+id/m_home"/>
-    <item android:title="global"
+    <item android:title=""
         android:icon="@drawable/ic_vector_global"
         android:id="@+id/m_global"/>
-    <item android:title="upload"
+    <item android:title=""
         android:icon="@drawable/ic_vector_upload"
         android:id="@+id/m_upload"/>
-    <item android:title="notification"
+    <item android:title=""
         android:icon="@drawable/ic_vector_notify"
         android:id="@+id/m_notify"/>
-    <item android:title="profile"
+    <item android:title=""
         android:icon="@drawable/ic_vector_profile"
         android:id="@+id/m_profile"/>
 </menu>

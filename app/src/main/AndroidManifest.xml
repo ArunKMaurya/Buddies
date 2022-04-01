@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.shivam.new_buddy">
 
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,25 +10,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.New_buddy">
-        <activity
-            android:name=".DashnavActivity"
-            android:exported="true"
-            android:label="@string/title_activity_dashnav"
-            android:theme="@style/Theme.New_buddy.NoActionBar" />
-        <activity
-            android:name=".HomeFragment"
-            android:exported="true" />
-        <activity
-            android:name=".Bottomnav"
-            android:exported="true"
-            android:label="@string/title_activity_bottomnav" />
-        <activity
-            android:name=".DetailActivity"
-            android:exported="false" />
-        <activity
-            android:name=".DashboardActivity"
-            android:exported="false"
-            android:label="@string/title_activity_dashboard" />
+
+        <activity android:name=".DetailActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".DashboardActivity"
+            android:screenOrientation="portrait"/>
+
+
         <activity
             android:name=".SplashActivity"
             android:exported="true">
