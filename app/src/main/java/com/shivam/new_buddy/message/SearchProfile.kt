@@ -14,10 +14,9 @@ class SearchProfile : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_search_profile)
-        val button : ImageButton =findViewById(R.id.ib2)
-        button.setOnClickListener {
-            val intent = Intent(this, MessageActivity::class.java)
-            startActivity(intent)
+        val btBack = findViewById<RelativeLayout>(R.id.rl_return)
+        btBack.setOnClickListener {
+            onBackPressed()
         }
     }
 }
