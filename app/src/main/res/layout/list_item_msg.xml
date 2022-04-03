@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout
+        android:id="@+id/rl_msg"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="@drawable/msg_recycler_block"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="16dp"
+        >
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cd_img"
+        android:layout_width="47dp"
+        android:layout_height="47dp"
+        app:cardCornerRadius="64dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="10dp"
+
+
+        >
+        <ImageView
+            android:id="@+id/img1"
+            android:layout_width="47dp"
+            android:layout_height="47dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/p1"/>
+
+    </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_toRightOf="@id/cd_img"
+            android:layout_marginTop="8dp"
+            android:text="Ridhima"
+            android:textColor="@color/white"
+            android:textSize="16dp"
+            android:gravity="center"
+            android:layout_marginStart="24dp"
+
+            />
+        <TextView
+            android:id="@+id/tv_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/cd_img"
+            android:layout_marginTop="4dp"
+            android:layout_below="@id/tv_name"
+            android:text="Hi!!"
+            android:textColor="#0069C6"
+            android:textSize="10dp"
+            android:layout_marginStart="24dp"
+            />
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_width="wrap_content"
+            android:layout_height="24dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="8dp"
+            android:text="11:15 AM"
+            android:textColor="#ACACAC"
+            android:textSize="8dp"
+            android:gravity="center"
+            android:layout_marginEnd="24dp"
+
+            />
+
+    </RelativeLayout>
+</RelativeLayout>
