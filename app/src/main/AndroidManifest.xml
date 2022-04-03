@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.New_buddy">
         <activity
+            android:name=".message.SearchProfile"
+            android:exported="true" />
+        <activity
             android:name=".MessageActivity"
             android:exported="true" />
         <activity

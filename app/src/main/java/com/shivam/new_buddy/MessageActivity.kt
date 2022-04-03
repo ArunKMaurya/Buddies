@@ -1,10 +1,14 @@
 package com.shivam.new_buddy
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.ImageButton
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.shivam.new_buddy.databinding.ActivityMessageBinding
+import com.shivam.new_buddy.message.SearchProfile
+
 class MessageActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -17,6 +21,12 @@ class MessageActivity : AppCompatActivity() {
         recyclerview.layoutManager = LinearLayoutManager(this)
         val adapter = AdapterClass(this,datamsg)
         recyclerview.adapter = adapter
+
+        val button :ImageButton=findViewById(R.id.ib_msg)
+        button.setOnClickListener {
+            val intent = Intent(this, SearchProfile::class.java)
+            startActivity(intent)
+        }
 
     }
 }
