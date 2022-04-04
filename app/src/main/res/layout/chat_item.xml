@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black_2"
+    android:paddingHorizontal="18dp">
+
+    <LinearLayout
+        android:id="@+id/partner_msg_section"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/partner_profile_img"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="bottom"
+            android:src="@drawable/p1" />
+
+        <TextView
+            android:id="@+id/partner_text_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginHorizontal="10dp"
+            android:background="@drawable/partner_msg_bg"
+            android:padding="10dp"
+            android:text="I admire anyone who's rebelling against the status quo in search of new frontiers."
+            android:textColor="@color/white"
+            android:textDirection="ltr"
+            android:textSize="12dp"
+            android:visibility="visible" />
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/partner_imgView"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginHorizontal="10dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img_sample"
+            android:visibility="gone"
+            app:riv_corner_radius="10dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/my_msg_section"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/partner_msg_section"
+        android:layout_marginVertical="8dp"
+        android:orientation="vertical"
+        android:paddingHorizontal="10dp">
+
+        <TextView
+            android:id="@+id/my_text_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:background="@drawable/my_msg_bg"
+            android:padding="10dp"
+            android:text="I admire anyone  "
+            android:textAlignment="textStart"
+            android:textColor="@color/black"
+            android:textDirection="ltr"
+            android:textSize="12dp"
+            android:visibility="visible" />
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/my_imgView"
+            android:layout_width="320dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_vertical|end"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img_sample"
+            android:visibility="gone"
+            app:riv_corner_radius="10dp" />
+
+        <TextView
+            android:id="@+id/seen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|end"
+            android:layout_marginTop="8dp"
+            android:text="Seen"
+            android:textColor="#ACACAC"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+
+</RelativeLayout>
