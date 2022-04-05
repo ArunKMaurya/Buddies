@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "/home/ryan/.gradle/caches/transforms-3/7e504a977e281b4890de1a751e9fc7d8/transformed/appcompat-1.4.1/res/values-v24/values-v24.xml",
+                    "source": "C:\\Users\\Surendra\\.gradle\\caches\\transforms-3\\7e504a977e281b4890de1a751e9fc7d8\\transformed\\appcompat-1.4.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/ryan/.gradle/caches/transforms-3/8ad99313dc85bee365400e07992e11fc/transformed/material-1.5.0/res/values-v24/values-v24.xml",
+                    "source": "C:\\Users\\Surendra\\.gradle\\caches\\transforms-3\\8ad99313dc85bee365400e07992e11fc\\transformed\\material-1.5.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -33,7 +33,7 @@
                     }
                 },
                 {
-                    "source": "/home/ryan/.gradle/caches/transforms-3/a530c11920a3d448c2fead1600507669/transformed/media-1.0.0/res/values-v24/values-v24.xml",
+                    "source": "C:\\Users\\Surendra\\.gradle\\caches\\transforms-3\\a530c11920a3d448c2fead1600507669\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

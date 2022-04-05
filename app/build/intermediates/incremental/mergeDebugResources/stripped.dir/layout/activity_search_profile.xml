@@ -18,26 +18,24 @@
             android:id="@+id/rl_return"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:gravity="center"
-            android:layout_marginStart="20dp"
-           >
+            android:layout_marginStart="20dp">
 
 
-            <ImageView
-                android:id="@+id/ib1"
+            <ImageButton
                 android:layout_width="32dp"
                 android:layout_height="match_parent"
                 android:background="@color/black"
                 android:src="@drawable/ic_resource_return" />
 
-            <ImageView
-                android:id="@+id/ib2"
+            <ImageButton
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="16dp"
+                android:layout_marginBottom="10dp"
                 android:alpha="0.9"
                 android:background="@color/black"
-                android:src="@drawable/ic_arrow" />
+                android:src="@drawable/ic_arrow"
+
+                />
 
         </RelativeLayout>
 
@@ -81,13 +79,13 @@
           android:layout_marginStart="24dp"
           >
 
-          <TextView
-              android:layout_width="wrap_content"
-              android:layout_height="wrap_content"
-              android:gravity="center"
-              android:text="To"
-              android:textColor="@color/white"
-              android:textSize="16sp" />
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="To"
+          android:textColor="@color/white"
+          android:textSize="16sp"
+          android:gravity="center"/>
       </RelativeLayout>
 
 
@@ -117,6 +115,7 @@
             android:gravity="center"
 
             >
+
             <EditText
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -134,16 +133,19 @@
             android:layout_marginStart="24dp"
             android:gravity="center"
             android:layout_alignParentRight="true"
-            />
 
-        <ImageButton
-            android:id="@+id/ib_search"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_alignParentRight="true"
-            android:layout_marginEnd="20dp"
-            android:background="@color/black_3"
-            android:src="@drawable/ic_search_icon" />
+
+            >
+            <ImageButton
+                android:id="@+id/ib_search"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_search_icon"
+                android:background="@color/black_3"
+
+                android:layout_marginEnd="20dp"
+                />
+
 
         </RelativeLayout>
 
@@ -155,3 +157,4 @@
 
 
 
+</RelativeLayout>

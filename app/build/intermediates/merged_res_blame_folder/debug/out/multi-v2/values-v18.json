@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "outputFile": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
             "map": [
                 {
-                    "source": "/home/ryan/.gradle/caches/transforms-3/7e504a977e281b4890de1a751e9fc7d8/transformed/appcompat-1.4.1/res/values-v18/values-v18.xml",
+                    "source": "C:\\Users\\Surendra\\.gradle\\caches\\transforms-3\\7e504a977e281b4890de1a751e9fc7d8\\transformed\\appcompat-1.4.1\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -6,43 +6,43 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="22"
-8-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml
+8-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="31" />
-9-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml
+9-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:5:5-67
-11-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:5:22-64
+11-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:6:5-78
-12-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:6:22-76
+12-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:6:5-78
+12-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:6:22-76
 13
 14    <application
-14-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:7:5-45:19
+14-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:7:5-45:19
 15        android:allowBackup="true"
-15-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:8:9-35
+15-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:8:9-35
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-16-->[androidx.core:core:1.7.0] /home/ryan/.gradle/caches/transforms-3/97438481726144ed572410423fdce572/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+16-->[androidx.core:core:1.7.0] C:\Users\Surendra\.gradle\caches\transforms-3\97438481726144ed572410423fdce572\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 17        android:debuggable="true"
 18        android:icon="@mipmap/ic_launcher"
-18-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:10:9-43
+18-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:10:9-43
 19        android:label="@string/app_name"
-19-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:11:9-41
+19-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:11:9-41
 20        android:roundIcon="@mipmap/ic_launcher_round"
-20-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:12:9-54
+20-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:12:9-54
 21        android:supportsRtl="true"
-21-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:13:9-35
+21-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:13:9-35
 22        android:testOnly="true"
 23        android:theme="@style/Theme.New_buddy"
-23-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:14:9-47
+23-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:14:9-47
 24        android:usesCleartextTraffic="true" >
-24-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:9:9-44
+24-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:9:9-44
 25        <activity
-25-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:15:9-23:20
+25-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:15:9-23:20
 26            android:name="com.shivam.new_buddy.ui.activities.ChatActivity"
-26-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:16:13-55
+26-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:16:13-55
 27            android:exported="true" >
-27-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:17:13-36
+27-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:17:13-36
 28
 29            <!-- <intent-filter> -->
 30            <!-- <action android:name="android.intent.action.MAIN" /> -->
@@ -52,80 +52,80 @@
 34            <!-- </intent-filter> -->
 35        </activity>
 36        <activity
-36-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:24:9-26:39
+36-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:24:9-26:39
 37            android:name="com.shivam.new_buddy.message.SearchProfile"
-37-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:25:13-50
+37-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:25:13-50
 38            android:exported="true" />
-38-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:26:13-36
+38-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:26:13-36
 39        <activity
-39-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:27:9-29:39
+39-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:27:9-29:39
 40            android:name="com.shivam.new_buddy.ui.activities.MessageActivity"
-40-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:28:13-58
+40-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:28:13-58
 41            android:exported="true" />
-41-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:29:13-36
+41-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:29:13-36
 42        <activity
-42-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:30:9-32:52
+42-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:30:9-32:52
 43            android:name="com.shivam.new_buddy.ui.activities.DetailActivity"
-43-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:31:13-57
+43-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:31:13-57
 44            android:screenOrientation="portrait" />
-44-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:32:13-49
+44-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:32:13-49
 45        <activity
-45-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:33:9-35:52
+45-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:33:9-35:52
 46            android:name="com.shivam.new_buddy.ui.activities.DashboardActivity"
-46-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:34:13-60
+46-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:34:13-60
 47            android:screenOrientation="portrait" />
-47-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:35:13-49
+47-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:35:13-49
 48        <activity
-48-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:36:9-44:20
+48-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:36:9-44:20
 49            android:name="com.shivam.new_buddy.ui.activities.SplashActivity"
-49-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:37:13-57
+49-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:37:13-57
 50            android:exported="true" >
-50-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:38:13-36
+50-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:38:13-36
 51            <intent-filter>
-51-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:39:13-43:29
+51-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:39:13-43:29
 52                <action android:name="android.intent.action.MAIN" />
-52-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:40:17-69
-52-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:40:25-66
+52-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:40:17-69
+52-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:40:25-66
 53
 54                <category android:name="android.intent.category.LAUNCHER" />
-54-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:42:17-77
-54-->/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/AndroidManifest.xml:42:27-74
+54-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:42:17-77
+54-->C:\Users\Surendra\final_buddes_project\app\src\main\AndroidManifest.xml:42:27-74
 55            </intent-filter>
 56        </activity>
 57
 58        <uses-library
-58-->[androidx.window:window:1.0.0] /home/ryan/.gradle/caches/transforms-3/c865304cb5f6522f5170acd1c00f215c/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+58-->[androidx.window:window:1.0.0] C:\Users\Surendra\.gradle\caches\transforms-3\c865304cb5f6522f5170acd1c00f215c\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
 59            android:name="androidx.window.extensions"
-59-->[androidx.window:window:1.0.0] /home/ryan/.gradle/caches/transforms-3/c865304cb5f6522f5170acd1c00f215c/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+59-->[androidx.window:window:1.0.0] C:\Users\Surendra\.gradle\caches\transforms-3\c865304cb5f6522f5170acd1c00f215c\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
 60            android:required="false" />
-60-->[androidx.window:window:1.0.0] /home/ryan/.gradle/caches/transforms-3/c865304cb5f6522f5170acd1c00f215c/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+60-->[androidx.window:window:1.0.0] C:\Users\Surendra\.gradle\caches\transforms-3\c865304cb5f6522f5170acd1c00f215c\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
 61        <uses-library
-61-->[androidx.window:window:1.0.0] /home/ryan/.gradle/caches/transforms-3/c865304cb5f6522f5170acd1c00f215c/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+61-->[androidx.window:window:1.0.0] C:\Users\Surendra\.gradle\caches\transforms-3\c865304cb5f6522f5170acd1c00f215c\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
 62            android:name="androidx.window.sidecar"
-62-->[androidx.window:window:1.0.0] /home/ryan/.gradle/caches/transforms-3/c865304cb5f6522f5170acd1c00f215c/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+62-->[androidx.window:window:1.0.0] C:\Users\Surendra\.gradle\caches\transforms-3\c865304cb5f6522f5170acd1c00f215c\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
 63            android:required="false" />
-63-->[androidx.window:window:1.0.0] /home/ryan/.gradle/caches/transforms-3/c865304cb5f6522f5170acd1c00f215c/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+63-->[androidx.window:window:1.0.0] C:\Users\Surendra\.gradle\caches\transforms-3\c865304cb5f6522f5170acd1c00f215c\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
 64
 65        <provider
-65-->[androidx.emoji2:emoji2:1.0.0] /home/ryan/.gradle/caches/transforms-3/8527af8b5d3d50e8beddb7b28ef0c883/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+65-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Surendra\.gradle\caches\transforms-3\8527af8b5d3d50e8beddb7b28ef0c883\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 66            android:name="androidx.startup.InitializationProvider"
-66-->[androidx.emoji2:emoji2:1.0.0] /home/ryan/.gradle/caches/transforms-3/8527af8b5d3d50e8beddb7b28ef0c883/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+66-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Surendra\.gradle\caches\transforms-3\8527af8b5d3d50e8beddb7b28ef0c883\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
 67            android:authorities="com.shivam.new_buddy.androidx-startup"
-67-->[androidx.emoji2:emoji2:1.0.0] /home/ryan/.gradle/caches/transforms-3/8527af8b5d3d50e8beddb7b28ef0c883/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Surendra\.gradle\caches\transforms-3\8527af8b5d3d50e8beddb7b28ef0c883\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
 68            android:exported="false" >
-68-->[androidx.emoji2:emoji2:1.0.0] /home/ryan/.gradle/caches/transforms-3/8527af8b5d3d50e8beddb7b28ef0c883/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+68-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Surendra\.gradle\caches\transforms-3\8527af8b5d3d50e8beddb7b28ef0c883\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
 69            <meta-data
-69-->[androidx.emoji2:emoji2:1.0.0] /home/ryan/.gradle/caches/transforms-3/8527af8b5d3d50e8beddb7b28ef0c883/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+69-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Surendra\.gradle\caches\transforms-3\8527af8b5d3d50e8beddb7b28ef0c883\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
 70                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-70-->[androidx.emoji2:emoji2:1.0.0] /home/ryan/.gradle/caches/transforms-3/8527af8b5d3d50e8beddb7b28ef0c883/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+70-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Surendra\.gradle\caches\transforms-3\8527af8b5d3d50e8beddb7b28ef0c883\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
 71                android:value="androidx.startup" />
-71-->[androidx.emoji2:emoji2:1.0.0] /home/ryan/.gradle/caches/transforms-3/8527af8b5d3d50e8beddb7b28ef0c883/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+71-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Surendra\.gradle\caches\transforms-3\8527af8b5d3d50e8beddb7b28ef0c883\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
 72            <meta-data
-72-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/ryan/.gradle/caches/transforms-3/959a6c8fa361173614656f60ff06835f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+72-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Surendra\.gradle\caches\transforms-3\959a6c8fa361173614656f60ff06835f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
 73                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-73-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/ryan/.gradle/caches/transforms-3/959a6c8fa361173614656f60ff06835f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+73-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Surendra\.gradle\caches\transforms-3\959a6c8fa361173614656f60ff06835f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
 74                android:value="androidx.startup" />
-74-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/ryan/.gradle/caches/transforms-3/959a6c8fa361173614656f60ff06835f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+74-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Surendra\.gradle\caches\transforms-3\959a6c8fa361173614656f60ff06835f\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
 75        </provider>
 76    </application>
 77

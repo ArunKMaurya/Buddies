@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w1240dp-v13/values-w1240dp-v13.xml",
+            "outputFile": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w1240dp-v13\\values-w1240dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/values-w1240dp/dimens.xml",
+                    "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
-                        "startOffsets": "16",
+                        "startOffsets": "17",
                         "endColumns": "42",
-                        "endOffsets": "54"
+                        "endOffsets": "55"
                     },
                     "to": {
                         "startLines": "2",

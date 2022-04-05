@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
+            "outputFile": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
             "map": [
                 {
-                    "source": "/home/ryan/.gradle/caches/transforms-3/8ad99313dc85bee365400e07992e11fc/transformed/material-1.5.0/res/values-small-v4/values-small-v4.xml",
+                    "source": "C:\\Users\\Surendra\\.gradle\\caches\\transforms-3\\8ad99313dc85bee365400e07992e11fc\\transformed\\material-1.5.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

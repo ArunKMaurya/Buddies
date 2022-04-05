@@ -1,290 +1,290 @@
 [
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable-v24_p1.png.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable-v24/p1.png"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_union_cloud.png.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_union_cloud.png"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_union_cloud.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_union_cloud.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\fragment_profile.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_emoji_laugh.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_emoji_laugh.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_message.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_message.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_camera.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_camera.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_union_cloud.png.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_union_cloud.png"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/layout_fragment_profile.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/layout/fragment_profile.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_buddies_pink.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_buddies_pink.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_home_black_24dp.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_home_black_24dp.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_call.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_call.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_search_profile.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_search_profile.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_msg_recycler_block.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/msg_recycler_block.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vector_notify.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_vector_notify.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_union_cloud.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_union_cloud.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_notes.webp.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/notes.webp"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_union_cloud.png.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_union_cloud.png"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_buddies_pink.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_buddies_pink.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_semi_bold.ttf.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\font\\poppins_semi_bold.ttf"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_blank_heart.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_blank_heart.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_notes.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\notes.webp"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_emoji_laugh.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_emoji_laugh.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/layout_activity_splash.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/layout/activity_splash.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_detail.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_three_dots.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_three_dots.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_img_sample.png.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/img_sample.png"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vector_global.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_vector_global.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_buddies_blue.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_buddies_blue.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_resource_return.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_resource_return.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_arrow.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_arrow.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_chat_input_box_bg.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\chat_input_box_bg.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_bottom_nav_corner.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/bottom_nav_corner.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_ellipse_bigger.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_ellipse_bigger.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/font_poppins_semi_bold.ttf.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/font/poppins_semi_bold.ttf"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_call.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_call.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_union_cloud.png.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/generated/res/pngs/debug/drawable-ldpi/ic_union_cloud.png"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_notify.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\fragment_notify.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_vector_global.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_vector_global.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/layout_activity_detail.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/layout/activity_detail.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_chat.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_vector_profile.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_vector_profile.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vector_upload.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_vector_upload.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_union_cloud.png.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_union_cloud.png"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back_btn.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_back_btn.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_notifications_black_24dp.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\menu\\bottom_navigation_item.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_profile_img.png.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/profile_img.png"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/font_poppins_regular.ttf.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/font/poppins_regular.ttf"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_chat_item.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\chat_item.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/layout_fragment_global.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/layout/fragment_global.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_p1.png.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable-v24\\p1.png"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/layout_activity_search_profile.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/layout/activity_search_profile.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_union_cloud.png.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_union_cloud.png"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/layout_activity_chat.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/layout/activity_chat.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_add.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/layout_fragment_home.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/layout/fragment_home.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_global.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\fragment_global.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_baseline_home_24.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_baseline_home_24.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_undraw_social_life.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_undraw_social_life.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_partner.jpg.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\partner.jpg"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_vector_upload.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_vector_upload.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_partner.jpg.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/partner.jpg"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_back_btn.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_back_btn.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_sample_img.png.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\sample_img.png"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_vector_notify.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_vector_notify.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/layout_activity_dashboard.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/layout/activity_dashboard.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_union_cloud.png.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_union_cloud.png"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_buddies_white.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_buddies_white.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vector_home.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_vector_home.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/layout_list_item_msg.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/layout/list_item_msg.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_ellipse_bigger.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_ellipse_bigger.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_search_icon.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_search_icon.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_partner_msg_bg.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\partner_msg_bg.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/layout_chat_item.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/layout/chat_item.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_my_msg_bg.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\my_msg_bg.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_union_cloud.png.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/generated/res/pngs/debug/drawable-mdpi/ic_union_cloud.png"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_sample_img.png.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/sample_img.png"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vector_profile.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_vector_profile.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_vector_home.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_vector_home.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_resource_return.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_resource_return.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_profile_img.png.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\profile_img.png"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_video_cam.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_video_cam.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_union_cloud.png.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_union_cloud.png"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_camera.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_buddies_white.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_buddies_white.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottom_nav_corner.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\bottom_nav_corner.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_partner_msg_bg.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/partner_msg_bg.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_chat_input_box_bg.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/chat_input_box_bg.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/menu_bottom_navigation_item.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/menu/bottom_navigation_item.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_three_dots.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_three_dots.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_add.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_add.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\font\\poppins_regular.ttf"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_union_cloud.png.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_union_cloud.png"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_sample.png.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\img_sample.png"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_my_msg_bg.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/my_msg_bg.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_msg_recycler_block.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\msg_recycler_block.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/layout_activity_message.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/layout/activity_message.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_arrow.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_arrow.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/layout_fragment_notify.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/layout/fragment_notify.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_union_cloud.png.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/generated/res/pngs/debug/drawable-hdpi/ic_union_cloud.png"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_union_cloud.png.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_union_cloud.png"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_undraw_social_life.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_undraw_social_life.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_buddies_blue.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_buddies_blue.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item_msg.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\list_item_msg.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_video_cam.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_video_cam.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search_icon.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_search_icon.xml"
     },
     {
-        "merged": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/build/intermediates/merged_res/debug/drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "/home/ryan/StudioProjects/Buddies-vs-1.0.0_dev(1)/Buddies-vs-1.0.0_dev/app/src/main/res/drawable/ic_dashboard_black_24dp.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_blank_heart.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_blank_heart.xml"
     }
 ]
