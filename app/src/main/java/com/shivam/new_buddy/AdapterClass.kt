@@ -17,7 +17,7 @@ class AdapterClass (val context : Context, val itemList: List<DataRec>):Recycler
     }
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val dataRec : DataRec = itemList[position]
-//        holder.image.setBackgroundResource(dataRec.image)
+
         holder.textname.text = dataRec.textname
         holder.textmsg.text=dataRec.textmsg
         holder.time.text=dataRec.time

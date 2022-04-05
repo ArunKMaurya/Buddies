@@ -6,6 +6,8 @@ import android.widget.ImageButton
 
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.google.firebase.database.FirebaseDatabase
+import com.google.firebase.firestore.FirebaseFirestore
 
 import com.shivam.new_buddy.message.SearchProfile
 
@@ -22,6 +24,7 @@ class MessageActivity : AppCompatActivity() {
         val adapter = AdapterClass(this,datamsg)
         recyclerview.adapter = adapter
 
+        EventChangeListner()
         val button :ImageButton=findViewById(R.id.ib_msg)
         button.setOnClickListener {
             val intent = Intent(this, SearchProfile::class.java)
@@ -29,7 +32,15 @@ class MessageActivity : AppCompatActivity() {
         }
 
     }
+
+    private fun EventChangeListner() {
+       val db = FirebaseFirestore.getInstance()
+
+
+    }
 }
+
+
 
 
 

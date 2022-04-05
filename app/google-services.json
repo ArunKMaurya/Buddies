@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267497650915",
+    "project_id": "new-buddy-70c5b",
+    "storage_bucket": "new-buddy-70c5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267497650915:android:25cc02392f583e7c65a3d6",
+        "android_client_info": {
+          "package_name": "com.shivam.new_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267497650915-hfacadoovm8vch983h0be21cnbvfjvhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9j54GN-r-rbrhE_ynQU5NcaN6drCTz48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267497650915-hfacadoovm8vch983h0be21cnbvfjvhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
