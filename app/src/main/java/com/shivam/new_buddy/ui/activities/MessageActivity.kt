@@ -23,9 +23,7 @@ class MessageActivity : AppCompatActivity() {
         setContentView(binding.root)
         binding.rvMsg.apply{
             layoutManager=LinearLayoutManager(this@MessageActivity)
-
         }
-
         fetchData()
     }
 

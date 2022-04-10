@@ -22,7 +22,6 @@ class AdapterClass(private val context: Context,val dataRec:List<DataRec>):Recyc
     }
 
     override fun onBindViewHolder(holder: UserViewHolder, position: Int) {
-
         val user=dataRec[position]
         holder.textmsg.text=user.textmsg
         holder.textname.text=user.textname
@@ -30,6 +29,10 @@ class AdapterClass(private val context: Context,val dataRec:List<DataRec>):Recyc
         Glide.with(context)
             .load("https://imgk.timesnownews.com/story/raam_nvmii_kii_shubh_kaamnaaeN_6.jpg?tr=w-1200,h-900")
             .into(holder.image)
+
+        holder.itemView.setOnClickListener {
+            context.startActivity(Intent(context, ChatActivity::class.java))
+        }
 
 
 
