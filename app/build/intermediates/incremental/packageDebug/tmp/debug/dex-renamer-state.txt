@@ -1,8 +1,10 @@
-#Wed Apr 06 00:18:43 IST 2022
+#Sun Apr 10 15:26:16 IST 2022
 path.4=1/classes.dex
 path.3=15/classes.dex
 path.2=13/classes.dex
 path.1=0/classes.dex
+renamed.8=classes9.dex
+path.8=classes2.dex
 path.7=9/classes.dex
 path.6=4/classes.dex
 path.5=3/classes.dex
@@ -17,6 +19,7 @@ renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 renamed.7=classes8.dex
+base.8=C\:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 renamed.6=classes7.dex
 base.7=C\:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
 renamed.5=classes6.dex

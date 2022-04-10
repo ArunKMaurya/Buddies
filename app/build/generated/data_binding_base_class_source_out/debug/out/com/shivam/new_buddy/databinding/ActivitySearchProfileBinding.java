@@ -23,10 +23,10 @@ public final class ActivitySearchProfileBinding implements ViewBinding {
   public final ImageButton ibSearch;
 
   @NonNull
-  public final RelativeLayout rlLayout;
+  public final RelativeLayout rlBack;
 
   @NonNull
-  public final RelativeLayout rlReturn;
+  public final RelativeLayout rlLayout;
 
   @NonNull
   public final RelativeLayout searchBar;
@@ -35,13 +35,13 @@ public final class ActivitySearchProfileBinding implements ViewBinding {
   public final RelativeLayout searchBox;
 
   private ActivitySearchProfileBinding(@NonNull RelativeLayout rootView,
-      @NonNull ImageButton ibSearch, @NonNull RelativeLayout rlLayout,
-      @NonNull RelativeLayout rlReturn, @NonNull RelativeLayout searchBar,
+      @NonNull ImageButton ibSearch, @NonNull RelativeLayout rlBack,
+      @NonNull RelativeLayout rlLayout, @NonNull RelativeLayout searchBar,
       @NonNull RelativeLayout searchBox) {
     this.rootView = rootView;
     this.ibSearch = ibSearch;
+    this.rlBack = rlBack;
     this.rlLayout = rlLayout;
-    this.rlReturn = rlReturn;
     this.searchBar = searchBar;
     this.searchBox = searchBox;
   }
@@ -79,15 +79,15 @@ public final class ActivitySearchProfileBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.rl_layout;
-      RelativeLayout rlLayout = ViewBindings.findChildViewById(rootView, id);
-      if (rlLayout == null) {
+      id = R.id.rl_back;
+      RelativeLayout rlBack = ViewBindings.findChildViewById(rootView, id);
+      if (rlBack == null) {
         break missingId;
       }
 
-      id = R.id.rl_return;
-      RelativeLayout rlReturn = ViewBindings.findChildViewById(rootView, id);
-      if (rlReturn == null) {
+      id = R.id.rl_layout;
+      RelativeLayout rlLayout = ViewBindings.findChildViewById(rootView, id);
+      if (rlLayout == null) {
         break missingId;
       }
 
@@ -103,8 +103,8 @@ public final class ActivitySearchProfileBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivitySearchProfileBinding((RelativeLayout) rootView, ibSearch, rlLayout,
-          rlReturn, searchBar, searchBox);
+      return new ActivitySearchProfileBinding((RelativeLayout) rootView, ibSearch, rlBack, rlLayout,
+          searchBar, searchBox);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -62,7 +62,7 @@
             android:background="@drawable/my_msg_bg"
             android:padding="10dp"
             android:text="I admire anyone  "
-            android:textAlignment="textStart"
+
             android:textColor="@color/black"
             android:textDirection="ltr"
             android:textSize="12dp"

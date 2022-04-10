@@ -12,12 +12,12 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_message.xml.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_message.xml"
-    },
-    {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_union_cloud.png.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_union_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_message.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_message.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_buddies_pink.xml.flat",
@@ -32,12 +32,12 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_search_profile.xml"
     },
     {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vector_notify.xml.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_vector_notify.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_union_cloud.xml.flat",
@@ -64,16 +64,16 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_emoji_laugh.xml"
     },
     {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail.xml.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_detail.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vector_global.xml.flat",
@@ -116,16 +116,16 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_vector_upload.xml"
     },
     {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back_btn.xml.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_back_btn.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_navigation_item.xml.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\menu\\bottom_navigation_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_chat_item.xml.flat",
@@ -204,12 +204,12 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vector_profile.xml.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_vector_profile.xml"
-    },
-    {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_24.xml.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vector_profile.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_vector_profile.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
@@ -224,16 +224,16 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_video_cam.xml"
     },
     {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_camera.xml.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_camera.xml"
-    },
-    {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_buddies_white.xml.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_buddies_white.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottom_nav_corner.xml.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\bottom_nav_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_camera.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -244,20 +244,20 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_three_dots.xml.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_three_dots.xml"
-    },
-    {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_regular.ttf.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\font\\poppins_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_sample.png.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\img_sample.png"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_three_dots.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_three_dots.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_msg_recycler_block.xml.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\msg_recycler_block.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_sample.png.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\img_sample.png"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_arrow.xml.flat",
