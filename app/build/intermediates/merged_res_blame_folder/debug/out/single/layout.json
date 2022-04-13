@@ -8,6 +8,10 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\fragment_notify.xml"
     },
     {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_signin.xml",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chat.xml",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_chat.xml"
     },

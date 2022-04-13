@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".ui.activities.SigninActivity">
+    <RelativeLayout
+        android:id="@+id/rl_bud"
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="88dp"
+            android:src="@drawable/ic_buddies_pink"
+           android:layout_centerHorizontal="true"
+            android:paddingTop="26dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="88dp"
+            android:src="@drawable/ic_buddies_white"
+            android:layout_centerInParent="true"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_signup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/rl_bud"
+        android:background="@color/black_3"
+        >
+        <RelativeLayout
+            android:id="@+id/sign"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sign Up"
+            android:textColor="@color/white"
+            android:textSize="24dp"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="12dp"
+
+            />
+            <ImageView
+                android:id="@+id/back_signup"
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="16dp"
+                android:src="@drawable/ic_back_btn"
+                android:layout_marginTop="32dp"
+                />
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/rl_cont"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/sign"
+            >
+            <EditText
+                android:id="@+id/ed_fnm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="First Name"
+                android:textColorHint="#707070"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:backgroundTint="#707070"
+                />
+            <EditText
+                android:id="@+id/ed_lnm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/ed_fnm"
+                android:hint="Last Name"
+                android:textColorHint="#707070"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:backgroundTint="#707070"
+                />
+            <EditText
+                android:id="@+id/ed_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Email"
+                android:textColorHint="#707070"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:backgroundTint="#707070"
+                android:layout_below="@id/ed_lnm"
+                />
+            <EditText
+                android:id="@+id/ed_pn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Phone Number"
+                android:textColorHint="#707070"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:backgroundTint="#707070"
+                android:layout_below="@id/ed_email"
+                />
+            <EditText
+                android:id="@+id/ed_cuser"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Choose Username"
+                android:textColorHint="#707070"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:backgroundTint="#707070"
+                android:layout_below="@id/ed_pn"
+                />
+            <EditText
+                android:id="@+id/ed_cpass"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#070707"
+                android:hint="Create Password"
+                android:textColorHint="#707070"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:backgroundTint="#707070"
+                android:layout_below="@id/ed_cuser"
+                />
+            <ImageView
+                android:id="@+id/cp_eye"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_eye"
+                android:layout_alignEnd="@id/ed_cpass"
+                android:layout_marginTop="240dp"
+                />
+            <EditText
+                android:id="@+id/ed_conpass"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Confirm Password"
+                android:textColor="#070707"
+                android:textColorHint="#707070"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:backgroundTint="#707070"
+                android:layout_below="@id/ed_cpass"
+
+                />
+            <ImageView
+                android:id="@+id/conp_eye"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_eye"
+                android:layout_alignEnd="@id/ed_cpass"
+                android:layout_marginTop="285dp"
+                />
+
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

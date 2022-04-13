@@ -184,6 +184,10 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
     },
     {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_eye.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_eye.xml"
+    },
+    {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
@@ -214,6 +218,10 @@
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_signin.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_profile_img.png.flat",
