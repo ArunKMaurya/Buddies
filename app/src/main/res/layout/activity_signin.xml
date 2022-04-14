@@ -74,6 +74,7 @@
                 android:layout_height="wrap_content"
                 android:hint="First Name"
                 android:textColorHint="#707070"
+                android:textColor="@color/white"
                 android:layout_marginStart="16dp"
                 android:layout_marginEnd="16dp"
                 android:backgroundTint="#707070"
@@ -85,6 +86,7 @@
                 android:layout_below="@id/ed_fnm"
                 android:hint="Last Name"
                 android:textColorHint="#707070"
+                android:textColor="@color/white"
                 android:layout_marginStart="16dp"
                 android:layout_marginEnd="16dp"
                 android:backgroundTint="#707070"
@@ -95,6 +97,7 @@
                 android:layout_height="wrap_content"
                 android:hint="Email"
                 android:textColorHint="#707070"
+                android:textColor="@color/white"
                 android:layout_marginStart="16dp"
                 android:layout_marginEnd="16dp"
                 android:backgroundTint="#707070"
@@ -106,27 +109,29 @@
                 android:layout_height="wrap_content"
                 android:hint="Phone Number"
                 android:textColorHint="#707070"
+                android:textColor="@color/white"
                 android:layout_marginStart="16dp"
                 android:layout_marginEnd="16dp"
                 android:backgroundTint="#707070"
                 android:layout_below="@id/ed_email"
                 />
+
             <EditText
                 android:id="@+id/ed_cuser"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Choose Username"
-                android:textColorHint="#707070"
+                android:layout_below="@id/ed_pn"
                 android:layout_marginStart="16dp"
                 android:layout_marginEnd="16dp"
                 android:backgroundTint="#707070"
-                android:layout_below="@id/ed_pn"
-                />
+                android:hint="Choose Username"
+                android:textColor="@color/white"
+                android:textColorHint="#707070" />
             <EditText
                 android:id="@+id/ed_cpass"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textColor="#070707"
+                android:textColor="@color/white"
                 android:hint="Create Password"
                 android:textColorHint="#707070"
                 android:layout_marginStart="16dp"
@@ -147,7 +152,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Confirm Password"
-                android:textColor="#070707"
+                android:textColor="@color/white"
                 android:textColorHint="#707070"
                 android:layout_marginStart="16dp"
                 android:layout_marginEnd="16dp"
@@ -163,9 +168,154 @@
                 android:layout_alignEnd="@id/ed_cpass"
                 android:layout_marginTop="285dp"
                 />
+            <RelativeLayout
+                android:id="@+id/rl_bio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/conp_eye"
+                >
 
+                <EditText
+                    android:id="@+id/ed_age"
+                    android:layout_width="108dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="24dp"
+                    android:backgroundTint="#707070"
+                    android:hint="Age"
+                    android:textColor="@color/white"
+                    android:textColorHint="#707070" />
+
+                <EditText
+                    android:id="@+id/ed_dob"
+                    android:layout_width="186dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="24dp"
+                    android:layout_marginEnd="16dp"
+                    android:layout_marginBottom="16dp"
+                    android:backgroundTint="#707070"
+                    android:hint="Date Of Birth"
+                    android:textColor="@color/white"
+
+                    android:textColorHint="#707070" />
+                <ImageView
+                    android:id="@+id/calender"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_calender"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="34dp"
+                    android:layout_marginEnd="20dp"
+
+                    />
+
+                <EditText
+                    android:id="@+id/ed_gender"
+                    android:layout_width="86dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/ed_age"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="16dp"
+                    android:backgroundTint="#707070"
+                    android:hint="Gender"
+                    android:textColor="@color/white"
+                    android:textColorHint="#707070"
+
+                    />
+                <ImageView
+                    android:id="@+id/scroll"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_scroll"
+                    android:layout_below="@id/ed_age"
+                    android:layout_marginTop="40dp"
+                    android:layout_marginStart="86dp"
+
+                    />
+
+                <EditText
+                    android:id="@+id/ed_state"
+                    android:layout_width="96dp"
+                    android:layout_height="wrap_content"
+                    android:hint="State"
+                    android:textColor="@color/white"
+                    android:textColorHint="#707070"
+                    android:backgroundTint="#707070"
+                    android:layout_marginTop="16dp"
+                    android:layout_below="@id/ed_age"
+                    android:layout_marginStart="130dp"
+                    />
+                <ImageView
+                    android:id="@+id/scroll1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_scroll"
+                    android:layout_below="@id/ed_age"
+                    android:layout_marginTop="40dp"
+                    android:layout_marginStart="210dp"
+
+                    />
+                <EditText
+                    android:id="@+id/ed_city"
+                    android:layout_width="108dp"
+                    android:layout_height="wrap_content"
+                    android:hint="City"
+                    android:textColor="@color/white"
+                    android:textColorHint="#707070"
+                    android:backgroundTint="#707070"
+
+                    android:layout_below="@id/ed_dob"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="16dp"
+                    />
+                <ImageView
+                    android:id="@+id/scroll2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_scroll"
+                    android:layout_below="@id/ed_age"
+                    android:layout_marginTop="40dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="24dp"
+                    />
+
+
+
+
+
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/otp_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/rl_bio"
+                android:layout_marginEnd="16dp"
+                android:layout_marginStart="16dp"
+
+                >
+
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/otp_btn"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Receive OTP"
+                    android:textColor="@color/white"
+                    android:layout_centerInParent="true"
+                    android:textSize="24dp"
+                    />
+            </RelativeLayout>
 
         </RelativeLayout>
+
     </RelativeLayout>
 
 </RelativeLayout>

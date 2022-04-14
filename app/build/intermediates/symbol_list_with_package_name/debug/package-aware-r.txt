@@ -2571,6 +2571,7 @@ drawable ic_blank_heart
 drawable ic_buddies_blue
 drawable ic_buddies_pink
 drawable ic_buddies_white
+drawable ic_calender
 drawable ic_call
 drawable ic_camera
 drawable ic_clock_black_24dp
@@ -2591,6 +2592,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_notifications_black_24dp
 drawable ic_resource_return
+drawable ic_scroll
 drawable ic_search_icon
 drawable ic_three_dots
 drawable ic_undraw_social_life
@@ -2646,6 +2648,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable otp_btn
 drawable p1
 drawable partner
 drawable partner_msg_bg
@@ -2766,6 +2769,7 @@ id bounceStart
 id bt_bottom_Navigation
 id buttonPanel
 id cache_measures
+id calender
 id callMeasure
 id camera
 id cancel_action
@@ -2848,13 +2852,18 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id ed_age
+id ed_city
 id ed_conpass
 id ed_cpass
 id ed_cuser
+id ed_dob
 id ed_email
 id ed_fnm
+id ed_gender
 id ed_lnm
 id ed_pn
+id ed_state
 id edit_query
 id elastic
 id emojies
@@ -3029,6 +3038,7 @@ id off
 id on
 id onInterceptTouchReturnSwipe
 id others
+id otp_btn
 id outline
 id outward
 id overshoot
@@ -3065,6 +3075,7 @@ id rightToLeft
 id right_icon
 id right_side
 id rl_back
+id rl_bio
 id rl_bud
 id rl_cont
 id rl_layout
@@ -3080,6 +3091,8 @@ id sawtooth
 id scale
 id screen
 id scroll
+id scroll1
+id scroll2
 id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
