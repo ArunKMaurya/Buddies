@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/black"
+    tools:context=".ui.activities.LoginActivity">
+    <RelativeLayout
+        android:id="@+id/otp_cloud"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="56dp"
+            >
+        <ImageView
+            android:id="@+id/cloud"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="90dp"
+            android:src="@drawable/ic_union_cloud" />
+
+        <ImageView
+            android:layout_width="167dp"
+            android:layout_height="136dp"
+            android:layout_alignStart="@id/cloud"
+            android:layout_alignTop="@id/cloud"
+            android:layout_alignEnd="@id/cloud"
+            android:layout_alignBottom="@id/cloud"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="43.5dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginBottom="40dp"
+            android:src="@drawable/ic_buddies_blue" />
+
+        <ImageView
+            android:layout_width="167dp"
+            android:layout_height="136dp"
+            android:layout_alignStart="@id/cloud"
+            android:layout_alignTop="@id/cloud"
+            android:layout_alignEnd="@id/cloud"
+            android:layout_alignBottom="@id/cloud"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="43dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginBottom="40dp"
+            android:src="@drawable/ic_buddies_pink" />
+
+        <ImageView
+            android:id="@+id/text_White"
+            android:layout_width="167dp"
+            android:layout_height="136dp"
+            android:layout_alignStart="@id/cloud"
+            android:layout_alignTop="@id/cloud"
+            android:layout_alignEnd="@id/cloud"
+            android:layout_alignBottom="@id/cloud"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="30dp"
+            android:layout_marginBottom="40dp"
+            android:src="@drawable/ic_buddies_white" />
+
+        </RelativeLayout>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_ellipse_27"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="24dp"/>
+
+
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/otp_credn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/otp_cloud"
+        android:background="@color/black_3"
+        >
+
+        <TextView
+
+            android:id="@+id/otp_sigin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textSize="24dp"
+            android:text="Sign In"
+            android:textColor="@color/white"
+            android:gravity="center"/>
+        <EditText
+            android:id="@+id/u_or_p"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/otp_sigin"
+            android:layout_marginTop="24dp"
+            android:textColor="@color/white"
+            android:hint="Username or email"
+            android:textColorHint="#707070"
+            android:backgroundTint="#707070"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            />
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/u_or_p"
+            android:layout_marginTop="24dp"
+            android:hint="Password"
+            android:textColorHint="#707070"
+            android:textColor="@color/white"
+            android:backgroundTint="#707070"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_eye"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@id/u_or_p"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="16dp"
+            />
+
+        <TextView
+            android:id="@+id/signup_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/password"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="16dp"
+            android:text="SignUp"
+            android:textColor="#0069C6" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Remember me"
+            android:layout_below="@id/password"
+            android:textColor="#707070"
+            android:layout_alignParentEnd="true"
+
+            android:layout_marginEnd="56dp"
+
+            />
+        <CheckBox
+            android:id="@+id/check_box"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/password"
+            android:layout_alignParentEnd="true"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="24dp"
+            >
+
+
+            <RelativeLayout
+                android:id="@+id/otp_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_marginEnd="16dp"
+                android:layout_marginStart="16dp"
+
+                >
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/otp_btn" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Receive OTP"
+                    android:textColor="@color/white"
+                    android:layout_centerInParent="true"
+                    android:textSize="24dp"
+                    />
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/rl_sign"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/otp_btn"
+                >
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="------------------------or------------------------"
+                    android:textSize="24dp"
+                    android:textColor="@color/white"
+                    android:gravity="center"/>
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/rl_sign">
+
+
+                <TextView
+                    android:id="@+id/google_signin"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sign up using Google"
+                    android:textColor="#0069C6"
+                    android:gravity="center"
+                    android:textSize="16dp"
+
+                    />
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+</RelativeLayout>

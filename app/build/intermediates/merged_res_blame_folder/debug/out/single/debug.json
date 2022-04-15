@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\fragment_profile.xml"
     },
     {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
-    },
-    {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_calender.xml.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_calender.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_union_cloud.png.flat",
@@ -48,6 +48,10 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_union_cloud.xml"
     },
     {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_union_cloud.png.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_union_cloud.png"
     },
@@ -68,16 +72,16 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_emoji_laugh.xml"
     },
     {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_detail.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail.xml.flat",
-        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_detail.xml"
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vector_global.xml.flat",
@@ -132,6 +136,10 @@
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\menu\\bottom_navigation_item.xml"
     },
     {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_ellipse_27.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_ellipse_27.xml"
+    },
+    {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\layout_chat_item.xml.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\chat_item.xml"
     },
@@ -154,6 +162,10 @@
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_undraw_social_life.xml.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_undraw_social_life.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_ellipse_29.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_ellipse_29.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_partner.jpg.flat",
@@ -254,6 +266,10 @@
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_camera.xml.flat",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle_otp.xml.flat",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\drawable\\circle_otp.xml"
     },
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",

@@ -19,7 +19,7 @@ class SplashActivity : AppCompatActivity() {
         Handler().postDelayed( { //This method will be executed once the timer is over
             // Start your app main activity
 //            val i = Intent(this, DashboardActivity::class.java)
-            val i = Intent(this, SigninActivity::class.java)
+            val i = Intent(this, LoginActivity::class.java)
             startActivity(i)
             // close this activity
             finish()

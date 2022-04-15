@@ -50,5 +50,9 @@
     {
         "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
         "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Surendra\\final_buddes_project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Surendra\\final_buddes_project\\app\\src\\main\\res\\layout\\activity_login.xml"
     }
 ]

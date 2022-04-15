@@ -2537,6 +2537,7 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable chat_input_box_bg
+drawable circle_otp
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -2576,6 +2577,8 @@ drawable ic_call
 drawable ic_camera
 drawable ic_clock_black_24dp
 drawable ic_dashboard_black_24dp
+drawable ic_ellipse_27
+drawable ic_ellipse_29
 drawable ic_ellipse_bigger
 drawable ic_emoji_laugh
 drawable ic_eye
@@ -2784,6 +2787,7 @@ id chain2
 id chains
 id chat_input
 id chats_recycler
+id check_box
 id checkbox
 id checked
 id chip
@@ -2892,6 +2896,7 @@ id ghost_view
 id ghost_view_holder
 id glide_custom_view_target_tag
 id gone
+id google_signin
 id graph
 id graph_wrap
 id group_divider
@@ -3039,6 +3044,9 @@ id on
 id onInterceptTouchReturnSwipe
 id others
 id otp_btn
+id otp_cloud
+id otp_credn
+id otp_sigin
 id outline
 id outward
 id overshoot
@@ -3052,6 +3060,7 @@ id partner_imgView
 id partner_msg_section
 id partner_profile_img
 id partner_text_msg
+id password
 id password_toggle
 id path
 id pathRelative
@@ -3080,6 +3089,7 @@ id rl_bud
 id rl_cont
 id rl_layout
 id rl_msg
+id rl_sign
 id rl_signup
 id rounded
 id row_index_key
@@ -3119,6 +3129,7 @@ id showCustom
 id showHome
 id showTitle
 id sign
+id signup_btn
 id sin
 id skipCollapsed
 id skipped
@@ -3209,6 +3220,7 @@ id triangle
 id tv_msg
 id tv_name
 id tv_time
+id u_or_p
 id unchecked
 id uniform
 id unlabeled
@@ -3325,6 +3337,7 @@ layout abc_tooltip
 layout activity_chat
 layout activity_dashboard
 layout activity_detail
+layout activity_login
 layout activity_message
 layout activity_search_profile
 layout activity_signin
