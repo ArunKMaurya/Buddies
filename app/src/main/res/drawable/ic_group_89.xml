@@ -1,0 +1,51 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="390dp"
+    android:height="446dp"
+    android:viewportWidth="390"
+    android:viewportHeight="446">
+  <path
+      android:strokeWidth="1"
+      android:pathData="M195,164m-106.5,0a106.5,106.5 0,1 1,213 0a106.5,106.5 0,1 1,-213 0"
+      android:fillColor="#00000000"
+      android:strokeColor="#535353"/>
+  <path
+      android:strokeWidth="1"
+      android:pathData="M195,164m-148.5,0a148.5,148.5 0,1 1,297 0a148.5,148.5 0,1 1,-297 0"
+      android:fillColor="#00000000"
+      android:strokeColor="#575757"/>
+  <path
+      android:strokeWidth="1"
+      android:pathData="M195,164m-190.5,0a190.5,190.5 0,1 1,381 0a190.5,190.5 0,1 1,-381 0"
+      android:fillColor="#00000000"
+      android:strokeColor="#434343"/>
+  <path
+      android:strokeWidth="1"
+      android:pathData="M195,164m-219.5,0a219.5,219.5 0,1 1,439 0a219.5,219.5 0,1 1,-439 0"
+      android:fillColor="#00000000"
+      android:strokeColor="#353535"/>
+  <path
+      android:strokeWidth="1"
+      android:pathData="M195,164m-250.5,0a250.5,250.5 0,1 1,501 0a250.5,250.5 0,1 1,-501 0"
+      android:fillColor="#00000000"
+      android:strokeColor="#313131"/>
+  <path
+      android:strokeWidth="1"
+      android:pathData="M195,164m-281.5,0a281.5,281.5 0,1 1,563 0a281.5,281.5 0,1 1,-563 0"
+      android:fillColor="#00000000"
+      android:strokeColor="#262626"/>
+  <path
+      android:pathData="M89,270m-13,0a13,13 0,1 1,26 0a13,13 0,1 1,-26 0"/>
+  <path
+      android:pathData="M265,342m-13,0a13,13 0,1 1,26 0a13,13 0,1 1,-26 0"
+      android:fillColor="#FF61B7"/>
+  <path
+      android:pathData="M39,57m-13,0a13,13 0,1 1,26 0a13,13 0,1 1,-26 0"/>
+  <path
+      android:pathData="M38,359m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"
+      android:fillColor="#81ABFF"/>
+  <path
+      android:pathData="M357,64m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0"
+      android:fillColor="#00BC97"/>
+  <path
+      android:pathData="M339,406m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"/>
+</vector>

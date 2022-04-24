@@ -1,5 +1,3 @@
-com/shivam/new_buddy/BuildConfig.java
- com.shivam.new_buddy.BuildConfig
 com/shivam/new_buddy/databinding/ChatItemBinding.java
  com.shivam.new_buddy.databinding.ChatItemBinding
 com/shivam/new_buddy/databinding/ActivityDetailBinding.java
@@ -12,19 +10,23 @@ com/shivam/new_buddy/databinding/ActivityChatBinding.java
  com.shivam.new_buddy.databinding.ActivityChatBinding
 com/shivam/new_buddy/databinding/FragmentProfileBinding.java
  com.shivam.new_buddy.databinding.FragmentProfileBinding
-com/shivam/new_buddy/databinding/ActivityLoginBinding.java
- com.shivam.new_buddy.databinding.ActivityLoginBinding
+com/shivam/new_buddy/databinding/ActivitySearchProfileBinding.java
+ com.shivam.new_buddy.databinding.ActivitySearchProfileBinding
 com/shivam/new_buddy/databinding/ActivityDashboardBinding.java
  com.shivam.new_buddy.databinding.ActivityDashboardBinding
 com/shivam/new_buddy/databinding/ActivitySplashBinding.java
  com.shivam.new_buddy.databinding.ActivitySplashBinding
+com/shivam/new_buddy/databinding/ActivityLoginBinding.java
+ com.shivam.new_buddy.databinding.ActivityLoginBinding
 com/shivam/new_buddy/databinding/ActivityMessageBinding.java
  com.shivam.new_buddy.databinding.ActivityMessageBinding
+com/shivam/new_buddy/BuildConfig.java
+ com.shivam.new_buddy.BuildConfig
 com/shivam/new_buddy/databinding/ListItemMsgBinding.java
  com.shivam.new_buddy.databinding.ListItemMsgBinding
 com/shivam/new_buddy/databinding/FragmentHomeBinding.java
  com.shivam.new_buddy.databinding.FragmentHomeBinding
+com/shivam/new_buddy/databinding/ActivityOtpBinding.java
+ com.shivam.new_buddy.databinding.ActivityOtpBinding
 com/shivam/new_buddy/databinding/ActivitySigninBinding.java
  com.shivam.new_buddy.databinding.ActivitySigninBinding
-com/shivam/new_buddy/databinding/ActivitySearchProfileBinding.java
- com.shivam.new_buddy.databinding.ActivitySearchProfileBinding

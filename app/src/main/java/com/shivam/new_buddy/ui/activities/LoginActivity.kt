@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageButton
+import android.widget.RelativeLayout
 import android.widget.TextView
 import com.shivam.new_buddy.R
 import com.shivam.new_buddy.message.SearchProfile
@@ -15,6 +16,11 @@ class LoginActivity : AppCompatActivity() {
         val button=findViewById<TextView>(R.id.signup_btn)
         button.setOnClickListener(){
             val intent = Intent(this, SigninActivity::class.java)
+            startActivity(intent)
+        }
+        val otpactivity=findViewById<RelativeLayout>(R.id.otp_btn2)
+        otpactivity.setOnClickListener(){
+            val intent=Intent(this, OtpActivity::class.java)
             startActivity(intent)
         }
     }

@@ -23,6 +23,9 @@
         android:theme="@style/Theme.New_buddy"
         android:usesCleartextTraffic="true" >
         <activity
+            android:name="com.shivam.new_buddy.ui.activities.OtpActivity"
+            android:exported="false" />
+        <activity
             android:name="com.shivam.new_buddy.ui.activities.LoginActivity"
             android:exported="false" />
         <activity

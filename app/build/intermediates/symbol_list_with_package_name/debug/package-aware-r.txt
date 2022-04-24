@@ -2582,6 +2582,7 @@ drawable ic_ellipse_29
 drawable ic_ellipse_bigger
 drawable ic_emoji_laugh
 drawable ic_eye
+drawable ic_group_89
 drawable ic_home_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -3043,10 +3044,13 @@ id off
 id on
 id onInterceptTouchReturnSwipe
 id others
+id otp_back2
 id otp_btn
+id otp_btn2
 id otp_cloud
 id otp_credn
 id otp_sigin
+id otp_verify
 id outline
 id outward
 id overshoot
@@ -3339,6 +3343,7 @@ layout activity_dashboard
 layout activity_detail
 layout activity_login
 layout activity_message
+layout activity_otp
 layout activity_search_profile
 layout activity_signin
 layout activity_splash
